@@ -4,7 +4,7 @@ I wrote this add-on to make the process of customizing the audio visualizing car
 <br />Without this you would have to set up all the changes for a new card in blender manually.
 <br />The script generates a panel with predefined options so that you can customize cards without having to know how to use blender.
 
-Supported Blender versions 3.1 (Script File - CustomizeCard.py)
+Supported Blender version 3.1 (Script File - CustomizeCard.py)
 
 ## Functionality
 
