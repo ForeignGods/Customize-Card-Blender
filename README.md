@@ -1,8 +1,8 @@
 # Customize-Card-Blender
 
-I wrote this add-on to make the process of customizing music cards more time efficient.
-<br />Without this script you would need to change everything in blender manually.
-<br />This script generates a panel with predefined options so that you can customize cards without having to know how to use blender.
+I wrote this add-on to make the process of customizing the audio visualizing cards in my blender project more time efficient.
+<br />Without this you would have to set up all the changes for a new card in blender manually.
+<br />The script generates a panel with predefined options so that you can customize cards without having to know how to use blender.
 
 Supported Blender versions 3.1 (Script File - CustomizeCard.py)
 
@@ -10,13 +10,13 @@ Supported Blender versions 3.1 (Script File - CustomizeCard.py)
 
 ![Panel](https://user-images.githubusercontent.com/78089013/162726951-a7c7ca47-7693-4005-a937-3ae2ce5fba58.png)
 
-**Set Song Title** 
-
-Creates new folder when setting the song title with the same name as the song and uses it as render filepath.
-
 **Bake Sound**
 
 Opens file browser so that you can select .mp3 files to use for baking sounds to f-curves.
+
+**Set Song Title** 
+
+Creates new folder when setting the song title with the same name as the song and uses it as render filepath.
 
 **Set Duration**
 
